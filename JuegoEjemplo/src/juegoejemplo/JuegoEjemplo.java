@@ -11,9 +11,14 @@ public class JuegoEjemplo {
         Escena escena1=new Escena(ford);
         escena1.jugar();
       
-      System.out.println("Un crack maxi");
-        
-        
+        System.out.println("Un crack maxi");
+      
+
+//        Que se agregue cada uno y hagan un push
+
+//        Los integrantes del grupo son:
+//        
+//        Luciano Andrés Muzzachiodi.
         
     }
     
